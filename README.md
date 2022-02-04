@@ -2,10 +2,10 @@
 # Hello👋 I'm Seonghyeon.
 ### My Links
 <div>
-<a href="https://velog.io/@goshk95">
+<a href="https://velog.io/@goshk95" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Velog-brightgreen" />
 </a>
-<a href="https://goshk95.tistory.com" target="blank">
+<a href="https://goshk95.tistory.com" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Tistory-9cf" />
 </a>
 <a href="mailto:goshk77@gmail.com">
