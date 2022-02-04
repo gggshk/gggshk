@@ -8,7 +8,7 @@
 <a href="https://goshk95.tistory.com">
 <img align="center" src="https://img.shields.io/badge/Tistory-9cf" />
 </a>
-<a href="pocal777@naver.com">
+<a href="mailto:pocal777@naver.com">
 <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 </div>
