@@ -5,7 +5,7 @@
 <a href="https://velog.io/@goshk95">
 <img align="center" src="https://img.shields.io/badge/Velog-brightgreen" />
 </a>
-<a href="https://goshk95.tistory.com">
+<a href="https://goshk95.tistory.com" target="blank">
 <img align="center" src="https://img.shields.io/badge/Tistory-9cf" />
 </a>
 <a href="mailto:goshk77@gmail.com">
