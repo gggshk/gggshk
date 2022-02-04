@@ -1,5 +1,18 @@
 
 # Hello👋 I'm Seonghyeon.
+### My Links
+<div>
+<a href="https://https://velog.io/@goshk95">
+<img align="center" src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
+</a>
+<a href="https://https://velog.io/@goshk95">
+<img align="center" src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
+</a>
+<a href="pocal777@naver.com">
+<img align="center" src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
+</a>
+</div>
+
 ### My Languages
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
