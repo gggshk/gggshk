@@ -2,7 +2,7 @@
 # Hello👋 I'm Seonghyeon.
 ### My Links
 <div>
-<a href="https://goshk95.tistory.com">
+<a href="https://velog.io/@goshk95">
 <img align="center" src="https://img.shields.io/badge/Velog-brightgreen" />
 </a>
 <a href="https://goshk95.tistory.com">
