@@ -13,6 +13,8 @@
 </a>
 </div>
 
+---
+
 ### My Languages
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -26,10 +28,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gosh95&show_icons=true&title_color=ffea4f&hide_border=true&layout=compact&theme=dracula" />
 </a>
 
+---
+
 ### My Stats
 <a href="https://github.com/Gosh95">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gosh95&show_icons=true&theme=tokyonight" />
 </a>
+
+---
 
 ### Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goshk1995)](https://solved.ac/goshk1995/)
