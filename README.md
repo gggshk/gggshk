@@ -1,5 +1,5 @@
 
-# Hello👋 I'm Seonghyeon.
+# 👋Hi, I'm Seonghyeon.
 ### My Links
 <div>
 <a href="https://velog.io/@goshk95" target="_blank">
@@ -12,7 +12,7 @@
 <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 </div>
-
+<!-- 
 ---
 
 ### My Languages
@@ -38,4 +38,4 @@
 ---
 
 ### Baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goshk1995)](https://solved.ac/goshk1995/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goshk1995)](https://solved.ac/goshk1995/) -->
