@@ -37,7 +37,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gosh95&show_icons=true&theme=tokyonight" />
 </a>
 
+<!--
 ---
 
 ### Baekjoon
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goshk1995)](https://solved.ac/goshk1995/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goshk1995)](https://solved.ac/goshk1995/)
+-->
