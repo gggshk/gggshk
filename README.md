@@ -23,15 +23,15 @@
 -->
 
 ### 
-<a href="https://github.com/gggshk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gggshk&show_icons=true&title_color=ffea4f&hide_border=true&layout=compact&theme=dracula" />
+<a href="https://github.com/goshkim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goshkim&show_icons=true&title_color=ffea4f&hide_border=true&layout=compact&theme=dracula" />
 </a>
 
 ---
 
 ### My Stats
-<a href="https://github.com/gggshk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gggshk&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/goshkim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=goshkim&show_icons=true&theme=tokyonight" />
 </a>
 
 <!--
